@@ -1,0 +1,14 @@
+.newbutton--small {
+  width: 150px;
+  text-align: center;
+}
+
+.newbutton--medium {
+  width: 250px;
+  text-align: center;
+}
+
+.newbutton--large {
+  width: 350px;
+  text-align: center;
+}
